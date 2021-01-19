@@ -1,0 +1,31 @@
+name: random_fox_generator
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  dio: ^3.0.10
+  mobx: ^1.2.1+4
+  flutter_mobx: ^1.1.0+2
+  mobx_codegen: ^1.1.2
+  build_runner: ^1.10.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+
+  
