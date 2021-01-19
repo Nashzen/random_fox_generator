@@ -1,6 +1,6 @@
 # random_fox_generator
 
-A new Flutter project.
+Simple app that generate random fox images using https://randomfox.ca/floof/ API :)
 
 ## Getting Started
 
